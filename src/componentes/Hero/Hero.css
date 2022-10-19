@@ -1,0 +1,21 @@
+/* .hero-padre{
+    background-color: rgba(0, 0, 0, 0.904);
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFx3xZlTVp-bTBiIArh6FntYHoZCFQAGaJHg&usqp=CAU);
+    background-size: cover;
+    background-repeat:no-repeat ;
+    height: 100vh;
+    width: 100vw;
+    text-align: center;
+    padding-top: 100px;
+   
+} */
+
+
+.boton{
+    background-color: yellow;
+    
+}
+.img-hero{
+    width: 100px;
+    height: 100px;
+}

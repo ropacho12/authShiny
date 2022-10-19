@@ -1,0 +1,10 @@
+.nav{
+    background-color: black;
+    color: yellow;
+
+    display: flex;
+    justify-content: space-between;
+}
+.title{
+    color: red;
+}
